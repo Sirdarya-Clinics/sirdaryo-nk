@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /backend/
+
+Sitemap: https://sirdaryo-nk.uz/sitemap.xml
